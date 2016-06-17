@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insights", "Insights\Insights.csproj", "{81FF5DC7-9505-47CC-B103-B99A2869B11F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsightsTest", "InsightsTest\InsightsTest.csproj", "{6816BEC8-79D8-4A71-8F15-BEF96070569A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81FF5DC7-9505-47CC-B103-B99A2869B11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FF5DC7-9505-47CC-B103-B99A2869B11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FF5DC7-9505-47CC-B103-B99A2869B11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FF5DC7-9505-47CC-B103-B99A2869B11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6816BEC8-79D8-4A71-8F15-BEF96070569A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6816BEC8-79D8-4A71-8F15-BEF96070569A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6816BEC8-79D8-4A71-8F15-BEF96070569A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6816BEC8-79D8-4A71-8F15-BEF96070569A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
